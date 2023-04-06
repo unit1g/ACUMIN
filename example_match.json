@@ -1,10 +1,10 @@
 {
 	"matchid": "example_match",
-	"num_maps": 3,
+	"num_maps": 1,
 	"players_per_team": 5,
 	"min_players_to_ready": 1,
 	"min_spectators_to_ready": 0,
-	"skip_veto": true,
+	"skip_veto": false,
 	"veto_first": "team1",
 	"side_type": "standard",
 
@@ -17,39 +17,56 @@
 		]
 	},
 
+	"maplist":
+	[
+		"de_anubis",
+		"de_inferno",
+		"de_mirage",
+		"de_nuke",
+		"de_overpass",
+		"de_ancient",
+		"workshop/163589843/de_cache",
+		"workshop/1542127528/de_cbble",
+		"de_dust2",
+		"de_tuscan",
+		"de_vertigo"
+	],
+
 	"favored_percentage_team1": 65,
 	"favored_percentage_text": "HLTV Bets",
 
 	"team1": {
-		"name": "MindWise",
+		"name": "MINDWISE",
 		"tag": "MW",
+		"flag": "br",
 		"logo": "mind",
 		"players":
 		{
-			"76561198024690631" : "ana0",
 			"76561198008963369" : "unit1g",
-			"" : "",
-			"." : "",
-			"" : ""
+			"STEAM_1:1:....." : "",
+			"STEAM_1:1:....." : "",
+			"STEAM_1:1:....." : "",
+			"STEAM_1:1:....." : ""
 		}
 	},
 
 	"team2": {
 		"name": "COMETA",
-		"tag": "COMETA",
+		"tag": "CMT",
+		"flag": "BR",
 		"logo": "comet",
 		"players":
 		[
-			"76561198997728848" : "nardoX",
-			"STEAM_1:1:....." : "",
-			"STEAM_1:1:....." : "",
-			"STEAM_1:1:....." : "",
-			"STEAM_1:1:....." : ""
+			"STEAM_1:1:46796472",
+			"STEAM_1:0:78189799",
+			"STEAM_1:0:142982",
+			"STEAM_1:1:.....",
+			"STEAM_1:1:....."
 		]
 	},
 
 	"cvars": {
-		"hostname": "Match server #1",
+		"hostname": "ARENA UP #1",
 		"sm_practicemode_can_be_started": "0"
 	}
 }
