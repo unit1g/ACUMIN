@@ -17,47 +17,34 @@
 		]
 	},
 
-	"maplist":
-	[
-		"de_anubis",
-		"de_inferno",
-		"de_mirage",
-		"de_nuke",
-		"de_overpass",
-		"de_ancient",
-		"de_vertigo"
-	],
-
 	"favored_percentage_team1": 65,
 	"favored_percentage_text": "HLTV Bets",
 
 	"team1": {
-		"name": "PIAZADA BLACK",
-		"tag": "PZ.BLCK",
-		"flag": "br",
-		"logo": "pz1",
+		"name": "MindWise",
+		"tag": "MW",
+		"logo": "mind",
 		"players":
 		{
-			"76561198008963369" : "unit1g",
-			"STEAM_1:1:....." : "",
-			"STEAM_1:1:....." : "",
-			"STEAM_1:1:....." : "",
-			"STEAM_1:1:....." : ""
+			"76561198024690631" : "ana0",
+			"" : "",
+			"" : "",
+			"." : "",
+			"" : ""
 		}
 	},
 
 	"team2": {
-		"name": "Fnatic",
-		"tag": "Fnatic",
-		"flag": "SE",
-		"logo": "fntc",
+		"name": "COMETA",
+		"tag": "COMETA",
+		"logo": "comet",
 		"players":
 		[
-			"STEAM_1:1:46796472",
-			"STEAM_1:0:78189799",
-			"STEAM_1:0:142982",
-			"STEAM_1:1:.....",
-			"STEAM_1:1:....."
+			"76561198997728848" : "nardoX",
+			"STEAM_1:1:....." : "",
+			"STEAM_1:1:....." : "",
+			"STEAM_1:1:....." : "",
+			"STEAM_1:1:....." : ""
 		]
 	},
 
